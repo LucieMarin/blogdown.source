@@ -25,7 +25,7 @@ weight = 3
 
 +++
 
-Lucie Marin
+FIRSTNAME FAMILYNAME
 <br>
 <small>A short description of myself here</small>
 <br><br>
