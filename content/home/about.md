@@ -34,4 +34,8 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+I am student at the University of Mons, Belgium. I am 20 years old.
+
+
+
+Je suis en deuxième année en sciences biologiques. Depuis toute petite, je suis fascinée par le monde qui m'entoure. J'ai choisi biologie car c'est une science complète qui m'intrigue et qui me passionne.
