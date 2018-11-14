@@ -11,8 +11,13 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "..."
-  ]
+    "Climbing",
+    "Animals",
+    "Dancing",
+    "Architecture",
+    "Art",
+    "Audio-Visuel"
+    "..."]
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
@@ -36,4 +41,4 @@ weight = 5
 
 I am student at the University of Mons, Belgium. I am 20 years old.
 
-Je suis en deuxième année en sciences biologiques. Depuis toute petite, je suis fascinée par le monde qui m'entoure. J'ai choisi biologie car c'est une science complète qui m'intrigue et qui me passionne.
+Je suis en deuxième année en sciences biologiques. Depuis toute petite, je suis fascinée par le monde qui m'entoure. J'ai choisi biologie car c'est une science complète qui m'intrigue et qui me passionne. Enormément de chose me passione!J'ai eu donc beaucoup de mal à trouver mon orientation car énormément de chose m'intéresse et beaucoup de métiers m'intrigue et me passionne. Ingénieur du son ( et toi ce qui est le milieu caché de l'audio-visuel) , bioingénieur, ingénieur industriel , architecte (d'intérieur ou d'extérieur), zoologiste , écrivaine ,... Et bien d'autre chose encore. J'ai fini par choisir biologie car c'est une option qui ne ferme pas de porte. Actuellement, notre société est en totale désincronisation avec la nature. La biologie est la clé pour rétablir ce déséquilibre entre la société et la nature.Apprendre la biologie ne peut être qu'un avantage pour l'avenir.
