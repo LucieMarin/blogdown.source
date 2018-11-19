@@ -1,4 +1,3 @@
-
 +++
 # Hero widget.
 widget = "hero"
@@ -13,8 +12,8 @@ weight = 3
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/main-header.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_color = "#766556"  # An HTML color value.
+  overlay_img = "headers/cougar-puma_671171.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -28,7 +27,7 @@ weight = 3
 
 Lucie Marin
 <br>
-<small>A short description of myself here</small>
+<small>I am student at the University of Mons, Belgium. I am in the second year of bachelor.</small>
 <br><br>
 
 <script type="text/javascript">
