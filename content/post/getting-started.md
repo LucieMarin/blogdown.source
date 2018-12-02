@@ -3,7 +3,7 @@ date = 2018-10-01
 lastmod = 2018-10-01
 draft = false
 tags = ["academic", "hugo"]
-title = "Le déséquilibre des 2 ballons "
+title = "Le déséquilibre des 2 ballons"
 math = true
 summary = """
 Aujourd'hui, les scientifiques nous avertissent de la situation critique de l'homme face à la nature. Mais quel est cette situation critique? Quelles sont les possibilité d'avenir? 
