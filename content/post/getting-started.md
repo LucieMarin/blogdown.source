@@ -39,4 +39,3 @@ Heureusement pour notre ballon rouge, il existe en effet une autre solution. Le 
 
 J'ai voulu vous faire comprendre que Le ballon rouge ne peut pas vivre sans le ballon vert, l'humanité ne peut pas vivre sans la nature. Pour que la société ne sont pas dans une des 3 situations dramatiques. Il faut que les hommes soient en harmonie avec la nature, qu'ils ne travaillent plus en ligne pour faire des matèriaux mais en cycle. Ne plus faire de déchets finis. Il faut faire des déchets qui sont des ressources pour la nature. Il faut faire prendre le nécessaire.
 Ne travaillons pas en parasitisme mais en mutualisme avec elle.
-
