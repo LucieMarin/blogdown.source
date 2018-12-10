@@ -42,7 +42,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Lucie Marin"
-  role = "Student at UMONS (University of Mons, Belgium)"
+  role = "Student at UMONS (University of Mons, Belgium)."
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.

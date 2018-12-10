@@ -1,6 +1,6 @@
 +++
-date = 2018-10-01
-lastmod = 2018-10-01
+date = 2018-12-02
+lastmod = 2018-12-10
 draft = false
 tags = ["academic", "hugo"]
 title = "Le déséquilibre des 2 ballons"
