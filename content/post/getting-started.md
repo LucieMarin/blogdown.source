@@ -6,12 +6,12 @@ tags = ["academic", "hugo"]
 title = "Le déséquilibre des 2 ballons"
 math = true
 summary = """
-Aujourd'hui, les scientifiques nous avertissent de la situation critique de l'homme face à la nature. Mais quel est cette situation critique? Quelles sont les possibilité d'avenir? 
+Aujourd'hui, les scientifiques nous avertissent de la situation critique de l'homme face à la nature. Mais quel est cette situation critique? Quelles sont les possibilités d'avenir? 
 """
 
 [header]
-image = "headers/secondary-header.jpg"
-caption = "Image credit: **Derek Thompson** on Unsplash"
+image = "headers/déséquilibre.jpg"
+caption = "Image credit: **Derek Thompson** "
 preview = false
 
 +++
