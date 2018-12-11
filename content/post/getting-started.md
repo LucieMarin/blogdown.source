@@ -11,7 +11,7 @@ Aujourd'hui, les scientifiques nous avertissent de la situation critique de l'ho
 
 [header]
 image = "headers/déséquilibre.jpg"
-caption = "Image credit: **Derek Thompson** "
+caption = "Image credit: **Riyas Paloli** "
 preview = false
 
 +++
