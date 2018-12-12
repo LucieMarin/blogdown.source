@@ -1,15 +1,15 @@
 +++
 # Date this page was created.
-date = "2018-09-24"
+date = "2018-12-12"
 
 # Project title.
 title = "My project"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "Actuellement la technologie est au coeur de notre société. Internet et les réseaux sociaux ont pris une place dominante dans notre mode de vie."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "project.jpg"
+image_preview = "Social_Network.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/project-header.jpg"
-caption = "Image credit: **Trevor Cole** on Unsplash"
+image = "headers/Social_Network_paysage.png"
 +++
 
 Here I describe my project using Markdown formatting...
